@@ -4,6 +4,6 @@ Vous trouverez ici les divers projets portés par les membres de la communauté 
 
 ## Projets
 
-- [**WeMapIt**](https://github.com/WeMapIt/WeMapIt) : Porté par @pisteuralpin, ce projet consiste à référencer sur une carte interactive tous les pianos en libre service.
+- [**WeMapIt**](https://github.com/WeMapIt/WeMapIt) : Porté par [@pisteuralpin](https://github.com/pisteuralpin), ce projet consiste à référencer sur une carte interactive tous les pianos en libre service.
 
 > TODO
