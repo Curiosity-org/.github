@@ -19,4 +19,4 @@ Vous trouverez ici les divers projets portés par les membres de la communauté 
 
 - [**Gipsy**](https://github.com/Curiosity-org/Gipsy) : Porté par l'équipe de Curiosity, bot Discord visant à être le plus modulaire et user-friendly possible.
 - [**WeMapIt**](https://github.com/WeMapIt/WeMapIt) : Porté par [@pisteuralpin](https://github.com/pisteuralpin), ce projet consiste à référencer sur une carte interactive tous les pianos en libre service.
-- [**Matrix Discord Bridge**](https://github.com/Curiosity-org/Matrix-Discord-Bridge) : Porté par [@ascpial](https://github.com/ascpial) et [@Aeris1One](https://github.com/Aeris1One), ce projet consiste à relier Discord et le chat décentralisé Matrix au travers d'un pont en Python.
+- [**Axiome**](https://github.com/Curiosity-org/Axiome) : Porté par [@ascpial](https://github.com/ascpial) et [@Aeris1One](https://github.com/Aeris1One), ce projet consiste à relier Discord et le chat décentralisé Matrix au travers d'un pont en Python.
